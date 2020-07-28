@@ -10,6 +10,7 @@
 
 # Project files
 .idea
+AdminLTE.iml
 nbproject
 nbproject/private
 .vscode/
